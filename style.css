@@ -19,13 +19,13 @@ body{
 }
 
 nav{
-    height: 80px;
+    height: 50px;
     width: 100%;
     background-color: black;
 }
 
 label.logo{
-    font-size: 35px;
+    font-size: 30px;
     font-weight: bold;
     color: white;
     padding: 0 50px;
