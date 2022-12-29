@@ -19,7 +19,7 @@ body{
 }
 
 nav{
-    height: 50px;
+    height: 60px;
     width: 100%;
     background-color: black;
 }
@@ -29,7 +29,7 @@ label.logo{
     font-weight: bold;
     color: white;
     padding: 0 50px;
-    line-height: 80px;
+    line-height: 60px;
 }
 
 footer{
