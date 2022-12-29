@@ -42,11 +42,11 @@ button{
 }
 
 .christmasbtn{
-    background-image: url(/images/christmascard.jpg);
+    background-image: url(/countdown/.christmascard.jpg);
 }
 
 .newyearbtn{
-    background-image: url(/images/newyearcard.jpg);
+    background-image: url(/countdown/newyearcard.jpg);
 }
 
 a{
