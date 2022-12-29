@@ -28,8 +28,8 @@ p::before{
     left: 0;
     width: 0;
     height: 100%;
-    color: lightskyblue;
-    -webkit-text-stroke: 0vw lightskyblue;
+    color: lightgreen;
+    -webkit-text-stroke: 0vw lightgreen;
     overflow: hidden;
     animation: animate 6s linear infinite;
 }
