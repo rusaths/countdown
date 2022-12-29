@@ -9,7 +9,7 @@
 body{
     font-family: monospace;
     height: 100vh;
-    background-image: url(/images/homebg.jpg);
+    background-color: #001a33;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: fixed;
@@ -20,7 +20,7 @@ body{
 nav{
     height: 60px;
     width: 100%;
-    background-color: black;
+    background: transparent;
 }
 
 label.logo{
@@ -42,15 +42,18 @@ button{
 }
 
 .christmasbtn{
-    background-image: url(/countdown/.christmascard.jpg);
+    background-image: url(/christmascard.jpg);
 }
 
 .newyearbtn{
-    background-image: url(/countdown/newyearcard.jpg);
+    background-image: url(/newyearcard.jpg);
 }
 
 a{
     color: white;
+    font-size: 50px;
+    font-family: monospace;
+    text-transform: uppercase;
 }
 
 footer{
@@ -58,7 +61,7 @@ footer{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: black;
+    background-color: transparent;
     color: white;
     text-align: center;
 }
