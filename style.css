@@ -9,13 +9,12 @@
 body{
     font-family: monospace;
     height: 100vh;
-    background: url(/images/homebg.jpg);
+    background-image: url(/images/homebg.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: fixed;
     margin: 0;
     padding: 0;
-    display: flex;
-    flex-direction: column;
 }
 
 nav{
@@ -32,26 +31,26 @@ label.logo{
     line-height: 60px;
 }
 
-.links{
-    margin: 10px;
+button{
+    margin: 10px 20px;
+    width: 400px;
+    height: 200px;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 10px;
+    border: transparent;
 }
 
 .christmasbtn{
-    width: 250px;
-    height: 100px;
     background-image: url(/images/christmascard.jpg);
-    color: white;
-    background-position: center center;
-    background-size: cover;
 }
 
 .newyearbtn{
-    width: 250px;
-    height: 100px;
     background-image: url(/images/newyearcard.jpg);
+}
+
+a{
     color: white;
-    background-position: center center;
-    background-size: cover;
 }
 
 footer{
