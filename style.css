@@ -9,7 +9,7 @@
 body{
     font-family: monospace;
     height: 100vh;
-    background-image: url(/images/marcin-nowak-iXqTqC-f6jI-unsplash.jpg);
+    background: url(/images/homebg.jpg);
     background-size: cover;
     background-position: center center;
     margin: 0;
@@ -30,6 +30,28 @@ label.logo{
     color: white;
     padding: 0 50px;
     line-height: 60px;
+}
+
+.links{
+    margin: 10px;
+}
+
+.christmasbtn{
+    width: 250px;
+    height: 100px;
+    background-image: url(/images/christmascard.jpg);
+    color: white;
+    background-position: center center;
+    background-size: cover;
+}
+
+.newyearbtn{
+    width: 250px;
+    height: 100px;
+    background-image: url(/images/newyearcard.jpg);
+    color: white;
+    background-position: center center;
+    background-size: cover;
 }
 
 footer{
