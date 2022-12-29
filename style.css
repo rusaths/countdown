@@ -9,7 +9,7 @@
 body{
     font-family: monospace;
     height: 100vh;
-    background-image: url(/images/homebg.jpg);
+    background-image: url(/countdown/homebg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: fixed;
