@@ -6,7 +6,7 @@
 
 body{
     font-family: monospace;
-    background: url(countdown/diwali/diwalibg.jpg);
+    background: url(/countdown/diwali/diwalibg.jpg);
     min-height: 100vh;
     background-size: cover;
     background-position: center center;
