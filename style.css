@@ -39,11 +39,19 @@ button{
 }
 
 .christmasbtn{
-    background-image: url(/countdown/christmascard.jpg);
+    background-image: url(/countdown/images/christmascard.jpg);
 }
 
 .newyearbtn{
-    background-image: url(/countdown/newyearcard.jpg);
+    background-image: url(/countdown/images/newyearcard.jpg);
+}
+
+.diwalibtn{
+    background-image: url(/countdown/images/diwalicard.jpg);
+}
+
+.ramazanbtn{
+    background-image: url(/countdown/images/ramazancard.jpg);
 }
 
 a{
