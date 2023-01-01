@@ -54,6 +54,10 @@ button{
     background-image: url(/countdown/images/ramadancard.jpg);
 }
 
+.vesakbtn{
+    background-image: url(/countdown/images/vesakcard.jpg);
+}
+
 a{
     color: white;
     font-size: 50px;
