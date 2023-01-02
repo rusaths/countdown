@@ -60,6 +60,9 @@ button{
 
 .thaipongalbtn{
     background-image: url(/countdown/images/thaipongalcard.jpg);
+}
+
+.thaipongalbtn a{
     color: black;
 }
 
