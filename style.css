@@ -58,6 +58,10 @@ button{
     background-image: url(/countdown/images/vesakcard.jpg);
 }
 
+.thaipongalbtn{
+    background-image: url(/countdown/images/thaipongalcard.jpg);
+}
+
 a{
     color: white;
     font-size: 50px;
