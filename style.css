@@ -38,28 +38,25 @@ button{
     border: transparent;
 }
 
+
+.thaipongalbtn{
+    background-image: url(/countdown/images/thaipongalcard.jpg);
+}
+
+.vesakbtn{
+    background-image: url(/countdown/images/vesakcard.jpg);
+}
+.ramazanbtn{
+    background-image: url(/countdown/images/ramadancard.jpg);
+}
+
+
 .christmasbtn{
     background-image: url(/countdown/images/christmascard.jpg);
 }
 
 .newyearbtn{
     background-image: url(/countdown/images/newyearcard.jpg);
-}
-
-.diwalibtn{
-    background-image: url(/countdown/images/diwalicard.jpg);
-}
-
-.ramazanbtn{
-    background-image: url(/countdown/images/ramadancard.jpg);
-}
-
-.vesakbtn{
-    background-image: url(/countdown/images/vesakcard.jpg);
-}
-
-.thaipongalbtn{
-    background-image: url(/countdown/images/thaipongalcard.jpg);
 }
 
 .thaipongalbtn a{
